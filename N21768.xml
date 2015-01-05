@@ -119,14 +119,14 @@
    <text xml:lang="eng">
       <front>
          <div type="frontispiece">
-            <pb facs="tcp:028652_0000_0FDA3ABBD2EFFA08"/>
-            <pb facs="tcp:028652_0001_0FDA3A05E5EF0B58"/>
+            <pb facs="unknown:028652_0000_0FDA3ABBD2EFFA08"/>
+            <pb facs="unknown:028652_0001_0FDA3A05E5EF0B58"/>
             <p>
                <figure/>
             </p>
          </div>
          <div type="title_page">
-            <pb facs="tcp:028652_0002_0FDA3A095D57A478"/>
+            <pb facs="unknown:028652_0002_0FDA3A095D57A478"/>
             <p>BELISARIUS: A <hi>TRAGEDY.</hi>
             </p>
             <p>BY MARGARETTA V. FAUGERES.</p>
@@ -134,7 +134,7 @@
                <hi>NEW-YORK:</hi> Printed by T. and J. SWORDS, No. 99 Pearl-street. 1795.</p>
          </div>
          <div type="dramatis_personae">
-            <pb facs="tcp:028652_0003_0FDA3A0A7B517878"/>
+            <pb facs="unknown:028652_0003_0FDA3A0A7B517878"/>
             <head>DRAMATIS PERSONAE.</head>
             <list>
                <head>MEN.</head>
@@ -178,7 +178,7 @@
             </list>
          </div>
          <div type="preface">
-            <pb facs="tcp:028652_0004_0FDA3A0F4C1B22E8"/>
+            <pb facs="unknown:028652_0004_0FDA3A0F4C1B22E8"/>
             <head>PREFACE.</head>
             <p>EVER indulgent to the weakest emanations of genius, a benevolent public has enabled the author of BELISARIUS to bring forward her first Dramatic Per<g ref="char:EOLhyphen"/>formance; and though it may not be as perfect as those pieces which are produced by authors who have paid long and strict attention to the Theatre, yet she flatters herself, that as an historical Tragedy, it will meet with a kind reception.</p>
             <p>She has endeavoured to avoid all that unmeaning <hi>rant</hi> which forms so conspicuous a part in most productions of this kind, together with the awful <hi>asseverations</hi> and <hi>maledictions.</hi>—What their effect upon the <hi>stage</hi> may be, she knows not, but to a mere <hi>reader</hi> they are ever tire<g ref="char:EOLhyphen"/>some, and frequently disgusting; for which reason, as BELISARIUS was from its commencement intended for the closet, she has attempted, in their stead, to substitute concise narrative and plain sense.</p>
@@ -192,7 +192,7 @@
       </front>
       <body>
          <div type="play">
-            <pb facs="tcp:028652_0005_0FDA3A10550ABFD0"/>
+            <pb facs="unknown:028652_0005_0FDA3A10550ABFD0"/>
             <head>BELISARIUS.</head>
             <div n="1" type="act">
                <head>ACT THE FIRST.</head>
@@ -229,7 +229,7 @@
                      </l>
                      <l>Its gentle whisperings seem like sounds of death—</l>
                      <l>
-                        <pb n="8" facs="tcp:028652_0006_0FDA3A15EDB2F980"/>
+                        <pb n="8" facs="unknown:028652_0006_0FDA3A15EDB2F980"/>
 From dreams of <hi>mutiny,</hi> and <hi>schemes,</hi> and <hi>murder,</hi>
                      </l>
                      <l>I start, and think some bold conspirator</l>
@@ -301,7 +301,7 @@ From dreams of <hi>mutiny,</hi> and <hi>schemes,</hi> and <hi>murder,</hi>
                   <p>You have?</p>
                </sp>
                <sp>
-                  <pb n="9" facs="tcp:028652_0007_0FDA3A171593D978"/>
+                  <pb n="9" facs="unknown:028652_0007_0FDA3A171593D978"/>
                   <speaker>Tib.</speaker>
                   <lg>
                      <l>Yes, the last day that Felix held his feast,</l>
@@ -365,7 +365,7 @@ From dreams of <hi>mutiny,</hi> and <hi>schemes,</hi> and <hi>murder,</hi>
                      <l>" And who are you, that in this lordly strain</l>
                      <l>" Would school your noble hosts, in state affairs?"</l>
                      <l>
-                        <pb n="10" facs="tcp:028652_0008_0FDA3A1BF0CFC210"/>
+                        <pb n="10" facs="unknown:028652_0008_0FDA3A1BF0CFC210"/>
 The <hi>stranger</hi> gravely answer'd "BELISARIUS."</l>
                   </lg>
                </sp>
@@ -427,7 +427,7 @@ The <hi>stranger</hi> gravely answer'd "BELISARIUS."</l>
                      <l>While dull <hi>Intemperance</hi> bound <hi>us</hi> to our pillows,</l>
                      <l>He rose and journey'd on toward his castle.</l>
                      <l>
-                        <pb n="11" facs="tcp:028652_0009_0FDA3A1D1AE72178"/>
+                        <pb n="11" facs="unknown:028652_0009_0FDA3A1D1AE72178"/>
 —But yonder comes my melancholy sister</l>
                      <l>With her sad lover; let us leave the place!</l>
                   </lg>
@@ -494,7 +494,7 @@ The <hi>stranger</hi> gravely answer'd "BELISARIUS."</l>
                      <l>None have I to bestow—I too have lov'd;</l>
                      <l>But, ah! like thee I did not love in vain—</l>
                      <l>
-                        <pb n="12" facs="tcp:028652_0010_0FDA3A1E981A3E08"/>
+                        <pb n="12" facs="unknown:028652_0010_0FDA3A1E981A3E08"/>
 My BELISARIUS had a tender heart</l>
                      <l>That answer'd all my wishes—never sigh</l>
                      <l>Bore from my soul the index of distress;</l>
@@ -554,7 +554,7 @@ My BELISARIUS had a tender heart</l>
                   </lg>
                </sp>
                <sp>
-                  <pb n="13" facs="tcp:028652_0011_0FDA3A23588A0B20"/>
+                  <pb n="13" facs="unknown:028652_0011_0FDA3A23588A0B20"/>
                   <speaker>Jul.</speaker>
                   <lg>
                      <l>Oh! my big heart is full—a doleful load</l>
@@ -629,7 +629,7 @@ My BELISARIUS had a tender heart</l>
                   <p>Not for my life; go! haste and do thy errand!</p>
                </sp>
                <sp>
-                  <pb n="14" facs="tcp:028652_0012_0FDA3A26160A26A0"/>
+                  <pb n="14" facs="unknown:028652_0012_0FDA3A26160A26A0"/>
                   <speaker>Ars.</speaker>
                   <lg>
                      <l>Then grant me this, <hi>(kneels and kisses her hand)</hi> an earnest of my bliss,</l>
@@ -685,7 +685,7 @@ My BELISARIUS had a tender heart</l>
                </sp>
             </div>
             <div n="2" type="act">
-               <pb n="15" facs="tcp:028652_0013_0FDA3A27A65E99F0"/>
+               <pb n="15" facs="unknown:028652_0013_0FDA3A27A65E99F0"/>
                <head>ACT THE SECOND.</head>
                <div type="scene">
                   <head>SCENE—A Garden—a Cottage adjoining it.</head>
@@ -730,7 +730,7 @@ My BELISARIUS had a tender heart</l>
                      </lg>
                   </sp>
                   <stage>
-                     <pb n="16" facs="tcp:028652_0014_0FDA3A2AF5E76488"/>
+                     <pb n="16" facs="unknown:028652_0014_0FDA3A2AF5E76488"/>
                      <hi>Enter</hi> BELISARIUS, <hi>led by a</hi> Boy.</stage>
                   <sp>
                      <speaker>AMALA.</speaker>
@@ -819,7 +819,7 @@ My BELISARIUS had a tender heart</l>
                         <l>Mantled in power and guarded by his friends,</l>
                         <l>Who wait on all his wishes; tir'd of war</l>
                         <l>
-                           <pb n="17" facs="tcp:028652_0015_0FDA3A2CDF2EF0D0"/>
+                           <pb n="17" facs="unknown:028652_0015_0FDA3A2CDF2EF0D0"/>
 He spends his age in honourable ease:</l>
                         <l>Oh<g ref="char:punc">▪</g> what an ornament is he to <hi>man!</hi>
                         </l>
@@ -897,7 +897,7 @@ He spends his age in honourable ease:</l>
                         <l>Where, far retir'd from <hi>Pomp's</hi> fastidious train,</l>
                         <l>They might in <hi>peace</hi> improve the fertile earth,</l>
                         <l>
-                           <pb n="18" facs="tcp:028652_0016_0FDA3A2FDB37BA48"/>
+                           <pb n="18" facs="unknown:028652_0016_0FDA3A2FDB37BA48"/>
 And live by industry. My pamper'd sons</l>
                         <l>Now till my fields, and my accomplish'd girl</l>
                         <l>Toils with her mother, or attends the sheep,</l>
@@ -954,7 +954,7 @@ And live by industry. My pamper'd sons</l>
                         <l>" To see our unoffending <hi>offspring</hi> pine,</l>
                         <l>" And our sad <hi>consorts</hi> perish on our bosoms,</l>
                         <l>
-                           <pb n="19" facs="tcp:028652_0017_0FDA3A309FF37D38"/>
+                           <pb n="19" facs="unknown:028652_0017_0FDA3A309FF37D38"/>
 " Than by a single effort to recall</l>
                         <l>" The blessedness of peace? If you have lov'd,</l>
                         <l>" If ever you have honour'd GILIMER,</l>
@@ -1022,7 +1022,7 @@ And live by industry. My pamper'd sons</l>
                      <p>Ha! did I hear aright—said you—</p>
                   </sp>
                   <sp>
-                     <pb n="20" facs="tcp:028652_0018_0FDA3A3229D39C70"/>
+                     <pb n="20" facs="unknown:028652_0018_0FDA3A3229D39C70"/>
                      <speaker>Bel.</speaker>
                      <p>Yes, I said BELISARIUS—I am he.</p>
                   </sp>
@@ -1092,7 +1092,7 @@ And live by industry. My pamper'd sons</l>
                   </sp>
                </div>
                <div type="scene">
-                  <pb n="21" facs="tcp:028652_0019_0FDA3A32B8D2CC78"/>
+                  <pb n="21" facs="unknown:028652_0019_0FDA3A32B8D2CC78"/>
                   <head>SCENE—An elegant apartment.</head>
                   <stage>
                      <hi>Tables spread with fruits, wines, &amp;c.</hi> Bessus <hi>and several Courtiers sitting round—Servants.</hi>
@@ -1153,7 +1153,7 @@ And live by industry. My pamper'd sons</l>
                      <l>And swelling foam smokes the arch'd caves among,</l>
                      <l>And on the rough rocks dash the thundering waves:</l>
                      <l>
-                        <pb n="22" facs="tcp:028652_0020_0FDA3A35C85D4BE0"/>
+                        <pb n="22" facs="unknown:028652_0020_0FDA3A35C85D4BE0"/>
 The rocks repel the force—the waves retreat,</l>
                      <l>Spent with the idle war, and seek the main;</l>
                      <l>Then loud the rushing north winds blow, and beat</l>
@@ -1227,7 +1227,7 @@ The rocks repel the force—the waves retreat,</l>
                         <l>Who oft had sent petitions to the throne</l>
                         <l>In his behalf, receiving no return</l>
                         <l>
-                           <pb n="23" facs="tcp:028652_0021_0FDA3A38EA311A08"/>
+                           <pb n="23" facs="unknown:028652_0021_0FDA3A38EA311A08"/>
 Grew quite outrageous, and, with din of arms,</l>
                         <l>Rush'd on toward his dungeon, fully bent</l>
                         <l>To give their General liberty by force;</l>
@@ -1282,7 +1282,7 @@ Grew quite outrageous, and, with din of arms,</l>
                         <l>Till by one effort he o'er came his griefs,</l>
                         <l>And spake—"My brethren, my afflicted fellows,</l>
                         <l>
-                           <pb n="24" facs="tcp:028652_0022_0FDA3A3A5C22DD98"/>
+                           <pb n="24" facs="unknown:028652_0022_0FDA3A3A5C22DD98"/>
 "Let not your <hi>love</hi> deprive me of the bliss</l>
                         <l>" My <hi>enemies</hi> have left me—make me not</l>
                         <l>" The guilty cause of a sad insurrection;</l>
@@ -1348,7 +1348,7 @@ Grew quite outrageous, and, with din of arms,</l>
                         <l>And act as King? Did ever GILIMER</l>
                         <l>Display more splendor at his solemn feasts</l>
                         <l>
-                           <pb n="25" facs="tcp:028652_0023_0FDA3A3F1A9275B0"/>
+                           <pb n="25" facs="unknown:028652_0023_0FDA3A3F1A9275B0"/>
 Than BELISARIUS at a common meal;</l>
                         <l>Serv'd by the Lords and Princes of the city,</l>
                         <l>Who bore the gold and crystal goblets round?</l>
@@ -1416,7 +1416,7 @@ Than BELISARIUS at a common meal;</l>
                         <l>Because a good man suffers shamefully,</l>
                         <l>While you, whose lives have been a round of villanies,</l>
                         <l>
-                           <pb n="26" facs="tcp:028652_0024_0FDA3A407937FEB8"/>
+                           <pb n="26" facs="unknown:028652_0024_0FDA3A407937FEB8"/>
 Whose crimes pollute the mighty Roman name,</l>
                         <l>Retire in peace to enjoy your countless stores,</l>
                         <l>Obtain'd by ruthless rapine and extortion?</l>
@@ -1513,7 +1513,7 @@ Whose crimes pollute the mighty Roman name,</l>
                      <p>Oh, mercy!</p>
                   </sp>
                   <sp>
-                     <pb n="27" facs="tcp:028652_0025_0FDA3A444645A2F8"/>
+                     <pb n="27" facs="unknown:028652_0025_0FDA3A444645A2F8"/>
                      <speaker>2d Bulg.</speaker>
                      <p>Peace, fool; die quietly.</p>
                      <stage>(Stabs him.)</stage>
@@ -1585,7 +1585,7 @@ Whose crimes pollute the mighty Roman name,</l>
                         <l>Since first bedizen'd with these robes of state</l>
                         <l>I held the sceptre in Bulgaria's court.</l>
                         <l>
-                           <pb n="28" facs="tcp:028652_0026_0FDA3A4598EE2808"/>
+                           <pb n="28" facs="unknown:028652_0026_0FDA3A4598EE2808"/>
 Bright was that day—it was in early spring,</l>
                         <l>And smiling Nature was profuse in kindness;</l>
                         <l>The <hi>cattle</hi> low'd upon the misty hills,</l>
@@ -1659,7 +1659,7 @@ Bright was that day—it was in early spring,</l>
                      <lg>
                         <l>Welcome, my friend, to this our favour'd region;</l>
                         <l>
-                           <pb n="29" facs="tcp:028652_0027_0FDA3A4A6C8B36A8"/>
+                           <pb n="29" facs="unknown:028652_0027_0FDA3A4A6C8B36A8"/>
                            <hi>Once</hi> had I frown'd upon thy presence here,</l>
                         <l>My <hi>victor</hi> or my captive—but 'tis past,</l>
                         <l>And now I press thee thus upon my bosom,</l>
@@ -1727,7 +1727,7 @@ Bright was that day—it was in early spring,</l>
                         <l>Boiling with wrath vindictive, barbs his dart,</l>
                         <l>And wets it in the bosom of his country?</l>
                         <l>
-                           <pb n="30" facs="tcp:028652_0028_0FDA3A4B96D1D7B8"/>
+                           <pb n="30" facs="unknown:028652_0028_0FDA3A4B96D1D7B8"/>
 Can you confide in him? Do you expect</l>
                         <l>A ray of <hi>gratitude</hi> will light his soul</l>
                         <l>For all <hi>your</hi> favours—when each <hi>atom spark</hi>
@@ -1788,7 +1788,7 @@ Can you confide in him? Do you expect</l>
                         <l>Are skill'd in warlike arts, and their brave chiefs,</l>
                         <l>NARSUS and MUNDUS, HERMES, SALOMON,</l>
                         <l>
-                           <pb n="31" facs="tcp:028652_0029_0FDA3A4D4937AE20"/>
+                           <pb n="31" facs="unknown:028652_0029_0FDA3A4D4937AE20"/>
 With their accoutred legions, might defy</l>
                         <l>The <hi>world</hi> equipt for battle.</l>
                      </lg>
@@ -1846,7 +1846,7 @@ With their accoutred legions, might defy</l>
                      <lg>
                         <l>If thou wert ever thus averse to war,</l>
                         <l>
-                           <pb n="32" facs="tcp:028652_0030_0FDA3A5077136D20"/>
+                           <pb n="32" facs="unknown:028652_0030_0FDA3A5077136D20"/>
 General, why did'st thou fight?</l>
                      </lg>
                   </sp>
@@ -1922,7 +1922,7 @@ General, why did'st thou fight?</l>
                      </lg>
                   </sp>
                   <sp>
-                     <pb n="33" facs="tcp:028652_0031_0FDA3A519C0E2100"/>
+                     <pb n="33" facs="unknown:028652_0031_0FDA3A519C0E2100"/>
                      <speaker>Math.</speaker>
                      <p>Hast thou a wife?</p>
                   </sp>
@@ -1977,7 +1977,7 @@ General, why did'st thou fight?</l>
                         <l>How oft he thwarted me in my designs,</l>
                         <l>While he his own accomplished. Had he done</l>
                         <l>
-                           <pb n="34" facs="tcp:028652_0032_0FDA3A5354A01B08"/>
+                           <pb n="34" facs="unknown:028652_0032_0FDA3A5354A01B08"/>
 As other courtiers, <hi>honour'd</hi> and <hi>obey'd,</hi>
                         </l>
                         <l>He had been <hi>General</hi> still; but he was proud,</l>
@@ -2044,7 +2044,7 @@ As other courtiers, <hi>honour'd</hi> and <hi>obey'd,</hi>
                         <l>A poor illiterate orphan, train her up</l>
                         <l>As an own child, and loaded her with honours?</l>
                         <l>
-                           <pb n="35" facs="tcp:028652_0033_0FDA3A54A77A1440"/>
+                           <pb n="35" facs="unknown:028652_0033_0FDA3A54A77A1440"/>
 And yet, because I sent her from BYZANTIUM,</l>
                         <l>To shield her from the ruin I saw would fall</l>
                         <l>And crush the traitor, now she curses me.</l>
@@ -2115,7 +2115,7 @@ And yet, because I sent her from BYZANTIUM,</l>
                         <l>Half shut, and o'er his bosom stream'd his beard,</l>
                         <l>Hoary and long. I twice accosted him</l>
                         <l>
-                           <pb n="36" facs="tcp:028652_0034_0FDA3A5908AAB830"/>
+                           <pb n="36" facs="unknown:028652_0034_0FDA3A5908AAB830"/>
 Ere he regarded me; then looking up,</l>
                         <l>He eyed me with a vague and senseless gaze,</l>
                         <l>And heaving a most lamentable sigh,</l>
@@ -2169,7 +2169,7 @@ Ere he regarded me; then looking up,</l>
                         <l>Of him she deems offending;</l>
                         <l>Or basely lurking in some fated mansion,</l>
                         <l>
-                           <pb n="37" facs="tcp:028652_0035_0FDA3A59DBC60BE0"/>
+                           <pb n="37" facs="unknown:028652_0035_0FDA3A59DBC60BE0"/>
 To watch till Midnight's soporific bands</l>
                         <l>Have lull'd the willing world in sweet repose,</l>
                         <l>Then rushing like a tiger from his den,</l>
@@ -2233,7 +2233,7 @@ To watch till Midnight's soporific bands</l>
                      <p>Help! murder! help!</p>
                   </sp>
                   <stage>
-                     <pb n="38" facs="tcp:028652_0036_0FDA3A5C423D49B8"/>
+                     <pb n="38" facs="unknown:028652_0036_0FDA3A5C423D49B8"/>
                      <hi>Enter the</hi> EMPEROR, THEODORA, BARSAMES, <hi>and others.</hi>
                   </stage>
                   <sp>
@@ -2312,7 +2312,7 @@ To watch till Midnight's soporific bands</l>
                      </stage>
                   </sp>
                   <stage>
-                     <pb n="39" facs="tcp:028652_0037_0FDA3A5F904D8DB0"/>
+                     <pb n="39" facs="unknown:028652_0037_0FDA3A5F904D8DB0"/>
 JUSTINIAN <hi>solus, (after a long pause.)</hi>
                   </stage>
                   <sp>
@@ -2378,7 +2378,7 @@ JUSTINIAN <hi>solus, (after a long pause.)</hi>
                      <p>Alas! alas!</p>
                   </sp>
                   <sp>
-                     <pb n="40" facs="tcp:028652_0038_0FDA3A6217531990"/>
+                     <pb n="40" facs="unknown:028652_0038_0FDA3A6217531990"/>
                      <speaker>Tib.</speaker>
                      <lg>
                         <l>Mov'd even to tears I grasp'd and kiss'd his hand,</l>
@@ -2443,7 +2443,7 @@ JUSTINIAN <hi>solus, (after a long pause.)</hi>
                         <l>Oh! we will hasten to his happy mansion,</l>
                         <l>Where the rude passions know not to command;</l>
                         <l>
-                           <pb n="41" facs="tcp:028652_0039_0FDA3A6629ADD0A8"/>
+                           <pb n="41" facs="unknown:028652_0039_0FDA3A6629ADD0A8"/>
 Where mild <hi>Content</hi> and dreaded <hi>Poverty</hi>
                         </l>
                         <l>Have form'd an envied union—where no swoln sigh,</l>
@@ -2520,7 +2520,7 @@ Where mild <hi>Content</hi> and dreaded <hi>Poverty</hi>
                </div>
             </div>
             <div n="4" type="act">
-               <pb n="42" facs="tcp:028652_0040_0FDA3A6999D4AFA8"/>
+               <pb n="42" facs="unknown:028652_0040_0FDA3A6999D4AFA8"/>
                <head>ACT THE FOURTH.</head>
                <div type="scene">
                   <head>SCENE—A Sepulchre.</head>
@@ -2571,7 +2571,7 @@ Where mild <hi>Content</hi> and dreaded <hi>Poverty</hi>
                      </stage>
                   </sp>
                   <lg>
-                     <pb n="43" facs="tcp:028652_0041_0FDA3A6B15A219E8"/>
+                     <pb n="43" facs="unknown:028652_0041_0FDA3A6B15A219E8"/>
                      <head>SOLEMN MUSIC. DIRGE.</head>
                      <l>Flower of beauty, ah! how soon</l>
                      <l>
@@ -2621,7 +2621,7 @@ Where mild <hi>Content</hi> and dreaded <hi>Poverty</hi>
                         <l>Sits heavy on thy lids—ah! shut forever—</l>
                         <l>Nor <hi>Tempest's</hi> rage, nor <hi>Trumpet's</hi> vengeful blast,</l>
                         <l>
-                           <pb n="44" facs="tcp:028652_0042_0FDA3A6E2B7D1268"/>
+                           <pb n="44" facs="unknown:028652_0042_0FDA3A6E2B7D1268"/>
 Nor <hi>Thunder's</hi> roar, shall break the awful slumber;</l>
                         <l>Nor mournful <hi>sigh,</hi> nor agonizing <hi>groan,</hi>
                         </l>
@@ -2684,7 +2684,7 @@ Nor <hi>Thunder's</hi> roar, shall break the awful slumber;</l>
                         <l>Have you not wept enough? or can your tears</l>
                         <l>Recall to life the <hi>inmate</hi> of the tomb?</l>
                         <l>
-                           <pb n="45" facs="tcp:028652_0043_0FDA3A6F972EBCF8"/>
+                           <pb n="45" facs="unknown:028652_0043_0FDA3A6F972EBCF8"/>
 Oh! wherefore should you pine? Your darling mother,</l>
                         <l>Freed from the cares, the pains, the ills of earth,</l>
                         <l>Dwells in the regions of immortal peace,</l>
@@ -2751,7 +2751,7 @@ Oh! wherefore should you pine? Your darling mother,</l>
                      <stage>[They retire into the castle.</stage>
                   </sp>
                   <stage>
-                     <pb n="46" facs="tcp:028652_0044_0FDA3A717599C188"/>
+                     <pb n="46" facs="unknown:028652_0044_0FDA3A717599C188"/>
                      <hi>Enter</hi> TIBERIAS <hi>from an opposite gate.</hi>
                   </stage>
                   <sp>
@@ -2787,7 +2787,7 @@ Oh! wherefore should you pine? Your darling mother,</l>
                </div>
             </div>
             <div type="act">
-               <pb n="47" facs="tcp:028652_0045_0FDA3A729B0B9580"/>
+               <pb n="47" facs="unknown:028652_0045_0FDA3A729B0B9580"/>
                <head>ACT THE LAST.</head>
                <div type="scene">
                   <head>SCENE—The Chamber of Arsaces.</head>
@@ -2833,7 +2833,7 @@ Oh! wherefore should you pine? Your darling mother,</l>
                      </lg>
                   </sp>
                   <sp>
-                     <pb n="48" facs="tcp:028652_0046_0FDA3A761B4C72F8"/>
+                     <pb n="48" facs="unknown:028652_0046_0FDA3A761B4C72F8"/>
                      <speaker>Bars.</speaker>
                      <lg>
                         <l>Doubt it not, my sad friend, you still are young,</l>
@@ -2902,7 +2902,7 @@ Oh! wherefore should you pine? Your darling mother,</l>
                         <l>Infusing glorious LIGHT as heretofore;</l>
                         <l>Yet doth thy vital warmth encompass me,</l>
                         <l>
-                           <pb n="49" facs="tcp:028652_0047_0FDA3A7721FFDF68"/>
+                           <pb n="49" facs="unknown:028652_0047_0FDA3A7721FFDF68"/>
 Cheering the limbs benumb'd by frosty age;</l>
                         <l>And through thy medium my soul adores</l>
                         <l>Thy bountiful Creator, whose wide hand</l>
@@ -2979,7 +2979,7 @@ Cheering the limbs benumb'd by frosty age;</l>
                         <l>It is, lest my JUSTINIAN should expire,</l>
                         <l>With the persuasion of my treachery</l>
                         <l>
-                           <pb n="50" facs="tcp:028652_0048_0FDA3A7A60D5A3C0"/>
+                           <pb n="50" facs="unknown:028652_0048_0FDA3A7A60D5A3C0"/>
 Instampt upon his heart—oh, grievous thought!</l>
                      </lg>
                   </sp>
@@ -3048,7 +3048,7 @@ Instampt upon his heart—oh, grievous thought!</l>
                         <l>And as all the conspirators expired,</l>
                         <l>Refusing to divulge their leader's name,</l>
                         <l>
-                           <pb n="51" facs="tcp:028652_0049_0FDA3A7D5FE377A8"/>
+                           <pb n="51" facs="unknown:028652_0049_0FDA3A7D5FE377A8"/>
 (Though they sustain'd the torture) <hi>Calumny</hi>
                         </l>
                         <l>On <hi>me</hi> fixt the foul deed; but HEAVEN does know</l>
@@ -3128,7 +3128,7 @@ Instampt upon his heart—oh, grievous thought!</l>
                         <l>Your goodness veils me in a cloud of blushes!</l>
                         <l>My matchless friend, my brother, never, never</l>
                         <l>
-                           <pb n="52" facs="tcp:028652_0050_0FDA3A7E9B0F3B18"/>
+                           <pb n="52" facs="unknown:028652_0050_0FDA3A7E9B0F3B18"/>
 Can I make restitution for the wrongs</l>
                         <l>That I have pour'd upon you.</l>
                      </lg>
@@ -3216,7 +3216,7 @@ Can I make restitution for the wrongs</l>
                      <p>The Emperor!</p>
                   </sp>
                   <sp>
-                     <pb n="53" facs="tcp:028652_0051_0FDA3A80617B0B80"/>
+                     <pb n="53" facs="unknown:028652_0051_0FDA3A80617B0B80"/>
                      <speaker>Emp.</speaker>
                      <lg>
                         <l>Fair creature, yes: Oh! turn not from me thus,</l>
